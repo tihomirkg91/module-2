@@ -134,18 +134,18 @@ h1 { display: flex;
 /*** Phone Deivice ***/
 @media (max-width: 767px) {
 #box1 {     
-	width: 60%; height: 30%; 
+	width: 60%; height: 40%; 
     border: solid black; border-width: 1px; 
 	position: relative; padding: 25px;
 	margin-right: auto; margin-left: auto; 
 }
 #box2 { 
-	width: 60%; height: 30%; border: solid black; border-width: 1px; 
+	width: 60%; height: 40%; border: solid black; border-width: 1px; 
 	padding: 25px; position: relative;
 	margin-right: auto; margin-left: auto;
 }
 #box3 { 
-	width: 60%; height: 30%; border: solid black; border-width: 1px;
+	width: 60%; height: 40%; border: solid black; border-width: 1px;
 	padding: 25px; position: relative; 
 	margin-right: auto; margin-left: auto;
 }
